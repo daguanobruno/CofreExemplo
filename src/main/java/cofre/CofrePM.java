@@ -18,7 +18,7 @@ public class CofrePM {
         display = "Entre com a senha 6 digitos";
         this.sensorPorta.destravar();
     }
-    
+
     public String getDisplay() {
         return display;
     }
